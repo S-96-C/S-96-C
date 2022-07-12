@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shehan
 - 👀 I’m interested in **Programming, Developing, and Designing**
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning **Java, MongoDB, Node, Python**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **shehanclanka@gmail.com**
 
