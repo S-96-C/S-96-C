@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!-- ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
