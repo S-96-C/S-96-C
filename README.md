@@ -9,6 +9,12 @@ S-96-C/S-96-C is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="right">
+
+![](https://visitor-badge.glitch.me/badge?page_id=s-96-c)
+  
+</div>
+
 ### Skills : <br/>
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
@@ -24,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Stay Connect With Me:</h3>
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shehan-cooray-44a45016b/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Shehan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
