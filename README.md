@@ -39,3 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <hr>
+
+<p align="center">
+     
+<img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=s-96-c&theme=algolia&show_icons=true" /> 
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=s-96-c&theme=algolia&show_icons=true"/>
+         
+ </p>
