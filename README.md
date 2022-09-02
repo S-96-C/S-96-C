@@ -21,14 +21,20 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-badge&logo=anaconda&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
+![Replit](https://img.shields.io/badge/replit-667881?style=flat-badge&logo=replit&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) 
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-badge&logo=r&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-badge&logo=behance&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat-badge&logo=mysql&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=nodedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
 
 <h3 align="center">Stay Connect With Me:</h3>
 <p align="center">
