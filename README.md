@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
   
   <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-96-c&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" />
          
+  <img width="47%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=s-96-c&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
   
-
  </p>
  
 <hr>
