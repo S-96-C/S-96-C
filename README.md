@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="right">
 
-![](https://visitor-badge.glitch.me/badge?page_id=s-96-c)
+
   
 </div>
 
